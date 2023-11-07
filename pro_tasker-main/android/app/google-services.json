@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "198282848908",
+    "project_id": "tyflutter-454b1",
+    "storage_bucket": "tyflutter-454b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198282848908:android:5077e5c983324865d529a9",
+        "android_client_info": {
+          "package_name": "com.example.pro_tasker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198282848908-che140nh9qhn8e4eutvfcko7ieqjhcmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpg6fItrzX6_gfwGhyGNejHEeGTHAa4aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198282848908-che140nh9qhn8e4eutvfcko7ieqjhcmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
